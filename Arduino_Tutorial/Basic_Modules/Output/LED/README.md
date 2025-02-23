@@ -37,6 +37,8 @@ LED（發光二極體）是最基本的輸出元件，本教學將介紹從基�
 ### PWM 控制
 - 使用帶有 ~ 符號的腳位（Arduino UNO: 3, 5, 6, 9, 10, 11）
 
+![進階 LED 控制接線圖](./images/advanced_led.jpg)
+
 ## 程式範例
 1. 基礎控制 (basic_blink.ino)
    - LED 開關
