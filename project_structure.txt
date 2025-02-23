@@ -1,0 +1,35 @@
+Arduino_Tutorial/
+├── README.md
+├── Basic_Modules/
+│   ├── Input/
+│   │   ├── Button/
+│   │   └── Sensor/
+│   │       ├── DHT/
+│   │       ├── Light/
+│   │       └── Ultrasonic/
+│   │
+│   ├── Output/
+│   │   ├── LED/
+│   │   ├── RGB_LED/
+│   │   ├── Buzzer/
+│   │   └── LCD/
+│   │
+│   ├── Motion/
+│   │   ├── Servo/
+│   │   └── Stepper/
+│   │
+│   ├── Communication/
+│   │   ├── IR_Module/
+│   │   └── RFID/
+│   │
+│   └── Control/
+│       └── Relay/
+│
+├── Projects/
+│   ├── Smart_Home/
+│   └── Weather_Station/
+│
+└── Boards/
+    ├── Arduino_UNO/
+    ├── ESP32/
+    └── Arduino_Nano/
