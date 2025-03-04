@@ -56,3 +56,12 @@
 - [Arduino IDE 下載](https://www.arduino.cc/en/software)
 - [Arduino 專案分享平台](https://create.arduino.cc/projecthub)
 - [Arduino 教學影片](https://www.youtube.com/playlist?list=PLdckmk1Jf8MYOED98iY13wdGi52h-O69X)
+- [Arduino 積木程式-Blocks](https://www.arduinoblocks.com/)
+- [Arduino 模擬軟體-Wokwi](https://wokwi.com/projects/new/arduino-uno)
+- [Arduino 模擬軟體-Tinkercad](https://www.tinkercad.com/dashboard)
+- [Arduino 模擬軟體-Fritzing 付費](https://circuitpython.org/)
+
+## blog
+
+- [Ray's Blog](https://sites.google.com/view/rayarduino)
+- [傑森創工](https://blog.jmaker.com.tw/)
