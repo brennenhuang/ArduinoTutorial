@@ -1,6 +1,6 @@
 #include "DHT.h"
 
-#define DHTPIN 2        // DHT 感測器接在 2 腳位
+#define DHTPIN 9        // DHT 感測器接在 9 腳位
 #define DHTTYPE DHT11   // DHT11 感測器
 
 DHT dht(DHTPIN, DHTTYPE);
