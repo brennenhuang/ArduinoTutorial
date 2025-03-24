@@ -68,3 +68,5 @@
 
 ## 教材
 - [感測器圖庫](https://www.gettyimages.de/grafiken/sensor-icon)
+- [Arduino 簡易語法](https://ming-shian.blogspot.com/2013/09/arduino.html)
+- [PPT圖像製作神器](https://www.napkin.ai/)
